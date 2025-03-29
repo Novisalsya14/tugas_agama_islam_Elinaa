@@ -1,1 +1,3 @@
-# tugas_agama_islam_Elinaa
+Nama: Novi Salsya Elina
+Kelas:TI.23.CA.1
+Nim: 312310712
